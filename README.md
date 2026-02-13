@@ -5,11 +5,26 @@
 [![MIT License][license-shield]][license-url]
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg?style=for-the-badge)](https://www.python.org/downloads/)
 
-# SIQSE
+<br />
+<div align="center">
+  <a href="https://github.com/JorgeGabin/SIQSE">
+    <img src="assets/logo.png" alt="Logo" width="400">
+  </a>
 
-**Beyond Top-e: Simulation-Based Interactive Evaluation for Query Suggestions**
+  <h3 align="center">SIQSE</h3>
 
-A Python package for simulating user interaction in query suggestion selection using Large Language Models.
+  <p align="center">
+    <strong>Beyond Top-k: Simulation-Based Interactive Evaluation for Query Suggestions</strong>
+    <br />
+    A Python package for simulating user interaction in query suggestion selection using Large Language Models.
+    <br />
+    <br />
+    <br />
+    <a href="https://github.com/JorgeGabin/SIQSE/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/JorgeGabin/SIQSE/issues">Request Feature</a>
+  </p>
+</div>
 
 ---
 
