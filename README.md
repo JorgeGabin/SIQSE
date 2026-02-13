@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JorgeGabin/SIQSE">
-    <img src="assets/logo.png" alt="Logo" width="400">
+    <img src="assets/logo.png" alt="Logo" width="300">
   </a>
 
   <h3 align="center">SIQSE</h3>
@@ -286,7 +286,16 @@ University of Sheffield, Sheffield, United Kingdom
 
 ## Citation
 
-Paper under review.
+If you use this work, please cite:
+
+```bibtex
+@article{gabin2026beyond,
+  title={Beyond Top-k: Simulation-Based Interactive Evaluation for Query Suggestions},
+  author={Gabín, Jorge and Parapar, Javier and Wang, Xi},
+  year={2026},
+  note={Paper under review}
+}
+```
 
 ---
 
