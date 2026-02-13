@@ -14,7 +14,7 @@
   <h3 align="center">SIQSE</h3>
 
   <p align="center">
-    <strong>Beyond Top-k: Simulation-Based Interactive Evaluation for Query Suggestions</strong>
+    <strong>Beyond Top-e: Simulation-Based Interactive Evaluation for Query Suggestions</strong>
     <br />
     A Python package for simulating user interaction in query suggestion selection using Large Language Models.
     <br />
@@ -133,7 +133,7 @@ selected = simulator.select_suggestions(
 )
 ```
 
-### Simulating Automatic Stopping (No Fixed k)
+### Simulating Automatic Stopping (No Fixed e)
 
 ```python
 # Simulate user deciding when to stop selecting
