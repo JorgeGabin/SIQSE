@@ -7,7 +7,7 @@
 
 # SIQSE
 
-**Beyond Top-k: Simulation-Based Interactive Evaluation for Query Suggestions**
+**Beyond Top-e: Simulation-Based Interactive Evaluation for Query Suggestions**
 
 A Python package for simulating user interaction in query suggestion selection using Large Language Models.
 
