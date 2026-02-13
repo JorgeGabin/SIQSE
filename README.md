@@ -290,7 +290,7 @@ If you use this work, please cite:
 
 ```bibtex
 @article{gabin2026beyond,
-  title={Beyond Top-k: Simulation-Based Interactive Evaluation for Query Suggestions},
+  title={Beyond Top-e: Simulation-Based Interactive Evaluation for Query Suggestions},
   author={Gabín, Jorge and Parapar, Javier and Wang, Xi},
   year={2026},
   note={Paper under review}
